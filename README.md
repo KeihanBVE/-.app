@@ -1,1 +1,1 @@
-# kenongomakasu.app
+# kenongomakasu
